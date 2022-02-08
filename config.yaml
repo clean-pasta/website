@@ -1,0 +1,10 @@
+standalone: true
+css: public/styles.min.css
+template: base.html
+filters:
+  -  meta-vars.lua
+metadata:
+  title: cleanPasta
+  lang: en
+  dir: ltr
+

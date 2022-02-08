@@ -1,5 +1,7 @@
 ---
-title: clean_pasta
+title-prefix: Home
+name: Mahmoud
 ---
 
-Hello, World
+%{title}
+Hello, %{name}
